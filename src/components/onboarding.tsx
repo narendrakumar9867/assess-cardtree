@@ -61,7 +61,7 @@ const OnboardingPage = () => {
 
                     <div className="flex flex-col items-center">
                         <h1 className="text-2xl font-bold mb-2">Tell us a bit about yourself</h1>
-                        <p className="text-gray-600 mb-6">We'll use this info to build your page.</p>
+                        <p className="text-gray-600 mb-6">Well use this info to build your page.</p>
 
                         <div className="space-y-6">
                         <div className="grid grid-cols-2 gap-4">
